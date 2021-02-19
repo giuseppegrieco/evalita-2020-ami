@@ -1,0 +1,1 @@
+# EVALITA - Automatic Misogyny Identification
